@@ -1,0 +1,8 @@
+<resources>
+    <string name="bntHora">Hora</string>
+    <string name="bntData">Data</string>
+    <string name="espaco">  </string>
+    <string name="titulo">Penso Logo Existo</string>
+    <string name="selecionaData">Selecione a Data</string>
+    <string name="selecionaHora">Selecione a Hora</string>
+</resources>
